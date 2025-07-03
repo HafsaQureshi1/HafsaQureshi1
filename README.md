@@ -32,8 +32,7 @@ I’ve worked on a variety of projects ranging from mental health apps to univer
 #### 🛠 Tools & Platforms
 - 🖌️ Figma  - ☁️ Cloudinary  - 🧠 Dialogflow  - 🧪 Git & GitHub  - 🚀 Vercel  - 🧠 Hugging Face  - 🧬 OpenRouter API
 
-#### 💼 Other Skills
-- 📐 Responsive Design  - 🔁 Agile Methodology  - 🎛️ Version Control
+
 
 ---
 
