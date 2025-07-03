@@ -63,18 +63,6 @@ I’ve worked on a variety of projects ranging from mental health apps to univer
 
 ---
 
-### 🌟 Certifications
-- Designing Data-Intensive Applications  
-- Business Intelligence & Data Warehousing  
-- Relational & NoSQL Database Systems
-
----
-
-### 📊 GitHub Stats
-
-![Hafsa's GitHub stats](https://github-readme-stats.vercel.app/api?username=HafsaQureshi1&show_icons=true&theme=radical)
-
----
 
 ### 🤝 Let's Connect!
 I'm open to internships, freelance projects, and collaborative opportunities in app development, UI/UX design, and full-stack web development.
