@@ -18,43 +18,22 @@ I’ve worked on a variety of projects ranging from mental health apps to univer
 ### 🛠 Tech Stack
 
 #### 🧑‍💻 Languages
-- ⚡ JavaScript
-- 💙 Dart
-- ☕ Java
-- 🐍 Python
-- 💻 C++
-- 🌐 HTML & CSS
+- ⚡ JavaScript   - 💙 Dart   - ☕ Java   - 🐍 Python   - 💻 C++   - 🌐 HTML & CSS
 
 #### 📱 Mobile & Frontend
-- 📱 Flutter
-- 💠 Jetpack Compose
-- ⚛️ React.js
-- 🎨 Bootstrap
+- 📱 Flutter  - 💠 Jetpack Compose  - ⚛️ React.js  - 🎨 Bootstrap
 
 #### 🔧 Backend & APIs
-- 🌐 Node.js
-- ⚙️ Express.js
-- 🔗 REST APIs
+- 🌐 Node.js  - ⚙️ Express.js  - 🔗 REST APIs
 
 #### 🗃️ Databases
-- 🔥 Firebase / Firestore
-- 🐘 PostgreSQL
-- 🍃 MongoDB
-- 🗂️ SQLite / MySQL
+- 🔥 Firebase / Firestore  - 🐘 PostgreSQL  - 🍃 MongoDB  - 🗂️ SQLite / MySQL
 
 #### 🛠 Tools & Platforms
-- 🖌️ Figma
-- ☁️ Cloudinary
-- 🧠 Dialogflow
-- 🧪 Git & GitHub
-- 🚀 Vercel
-- 🧠 Hugging Face
-- 🧬 OpenRouter API
+- 🖌️ Figma  - ☁️ Cloudinary  - 🧠 Dialogflow  - 🧪 Git & GitHub  - 🚀 Vercel  - 🧠 Hugging Face  - 🧬 OpenRouter API
 
 #### 💼 Other Skills
-- 📐 Responsive Design
-- 🔁 Agile Methodology
-- 🎛️ Version Control
+- 📐 Responsive Design  - 🔁 Agile Methodology  - 🎛️ Version Control
 
 ---
 
