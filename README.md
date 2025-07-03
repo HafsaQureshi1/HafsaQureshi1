@@ -8,7 +8,7 @@
 
 ### 💡 About Me
 
-I'm a Software Engineering student at **Sukkur IBA University**, passionate about building responsive and user-centric applications. With **3+ years of hands-on experience**, I specialize in **mobile app development using Flutter**, UI/UX design, and full-stack web development using **MERN/PERN** stacks.  
+I have completed by Bachelors Of Software Engineering  at **Sukkur IBA University**, passionate about building responsive and user-centric applications. With **3+ years of hands-on experience**, I specialize in **mobile app development using Flutter**, UI/UX design, and full-stack web development using **MERN/PERN** stacks.  
 
 I’ve worked on a variety of projects ranging from mental health apps to university platforms — combining elegant UI with scalable backend systems. I thrive in Agile environments and enjoy turning real-world problems into creative digital solutions.
 
