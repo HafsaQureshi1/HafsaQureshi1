@@ -4,7 +4,7 @@
 📍 Sukkur, Pakistan | 📧 hafsaqureshi486@gmail.com  
 🌐 [Portfolio](https://portfoliohafsa.vercel.app) | [LinkedIn](https://linkedin.com/in/hafsa-qureshi-51aa93286) | [GitHub](https://github.com/HafsaQureshi1)
 
----
+
 
 ### 💡 About Me
 
@@ -44,24 +44,23 @@ I’ve worked on a variety of projects ranging from mental health apps to univer
 
 **Tech Used:** Flutter, Firebase, Firestore, Cloudinary, Hugging Face, Dialogflow, OpenRouter API  
 
----
+
 
 #### 💭 [Mental Health Journal App](https://github.com/HafsaQureshi1)  
 > A Flutter app that tracks daily emotions, visualizes patterns, and promotes emotional awareness.  
 
----
 
 #### 💸 Expense Tracker  
 > Mobile app to log and visualize expenses with category filters and interactive charts.
 
----
+
 
 #### 🍽️ [Railfoods Web Platform](https://github.com/HafsaQureshi1)  
 > Led development and design of a multi-role food ordering platform with admin, customer, and order management features.  
 
 **Tech Used:** React.js, Node.js, PostgreSQL, Firebase, Figma  
 
----
+
 
 
 ### 🤝 Let's Connect!
@@ -71,4 +70,3 @@ I'm open to internships, freelance projects, and collaborative opportunities in 
 🌐 **Portfolio**: [portfoliohafsa.vercel.app](https://portfoliohafsa.vercel.app)  
 🔗 **LinkedIn**: [hafsa-qureshi](https://linkedin.com/in/hafsa-qureshi-51aa93286)
 
----
