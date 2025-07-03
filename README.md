@@ -1,7 +1,6 @@
 ### Hi there! I'm Hafsa 👋
 
-I'm a UI/UX designer and full-stack developer passionate about creating meaningful digital experiences.  
-Currently building **UNI-verse**, an AI-powered university bulletin board app built with Flutter & Firebase.
+I'm a Mobile App Developer, full-stack MERN and Pern developer as well as UI UX Designer passionate about creating meaningful digital experiences.  
 
 - 🔭 Working on: UNI-verse, Mood Journal App  
 - 💡 Tech Stack: Flutter, Firebase, MERN, PERN, Hugging Face, Dialogflow  
