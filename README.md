@@ -11,7 +11,7 @@
   <a href="mailto:hafsaqureshi486@gmail.com"><img src="https://img.shields.io/badge/Email-hafsaqureshi486%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
 </p>
 
-<p align="center">📍 Sukkur, Pakistan</p>
+<p align="center">📍 Karachi, Pakistan</p>
 
 ---
 
