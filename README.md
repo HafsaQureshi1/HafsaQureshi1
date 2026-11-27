@@ -2,7 +2,7 @@
 
 <p align="center">
   <b>Mobile App Developer · Full-Stack Web Developer · UI/UX Designer</b><br>
-  Sukkur, Pakistan
+  Karachi, Pakistan
 </p>
 
 <p align="center">
