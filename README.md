@@ -75,7 +75,8 @@ Puzzle games, each with its own visual style, sound effects, haptics, an animate
 <table>
   <tr>
     <td align="center" width="33%">
-      <a href="https://github.com/HafsaQureshi1/2048-Glow"><img src="https://raw.githubusercontent.com/HafsaQureshi1/2048-Glow/main/screenshots/game.png" width="200" alt="2048 Glow"></a><br>
+      <a href="https://github.com/HafsaQureshi1/2048-Glow">
+        </a><br>
       <a href="https://github.com/HafsaQureshi1/2048-Glow"><b>2048 Glow</b></a><br>
       <sub>The number-merging classic with glossy glowing tiles, undo and high scores.</sub>
     </td>
