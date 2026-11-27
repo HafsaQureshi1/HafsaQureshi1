@@ -37,8 +37,7 @@ Software Engineering graduate from **Sukkur IBA University** with **3+ years** o
 | BB Timber | Custom WordPress theme for a timber company | WordPress, PHP, SCSS | [Code](https://github.com/HafsaQureshi1/Bb-timber) · [Live](https://bbtimber.com/) |
 | Farhang | Cultural marketplace for clothing and accessories | React, CSS | [Code](https://github.com/HafsaQureshi1/Ecommerce-Web-App) · [Live](https://web-project-hafsa-ali-sadia.vercel.app) |
 | Faizan Builders | Website for a construction and real estate developer | HTML, SCSS, JavaScript | [Code](https://github.com/HafsaQureshi1/FaizanBuilder) · [Live](https://faizan-builder.vercel.app) |
-| Ash Bakers | Bakery website | HTML, CSS | [Code](https://github.com/HafsaQureshi1/Bakerywebsite) · [Live](https://bakerywebsite-eight.vercel.app) |
-| Calligraphy | Website for a calligraphy brand | HTML, CSS | [Code](https://github.com/HafsaQureshi1/calligraphy_website) · [Live](https://calligraphy-website.vercel.app) |
+
 
 ## Games
 
