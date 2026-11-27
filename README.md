@@ -1,8 +1,8 @@
-<h1 align="center">Hi, I'm Hafsa Waseem 👋</h1>
+<h1 align="center">Hafsa Waseem</h1>
 
 <p align="center">
   <b>Mobile App Developer · Full-Stack Web Developer · UI/UX Designer</b><br>
-  Flutter apps and games, MERN / PERN web apps, and the designs behind them.
+  Sukkur, Pakistan
 </p>
 
 <p align="center">
@@ -11,22 +11,20 @@
   <a href="mailto:hafsaqureshi486@gmail.com"><img src="https://img.shields.io/badge/Email-hafsaqureshi486%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
 </p>
 
-<p align="center">📍 Karachi, Pakistan</p>
-
 ---
 
-## 💡 About me
+## About
 
 I have a Bachelor's in Software Engineering from **Sukkur IBA University** and **3+ years of hands-on experience** building responsive, user-centred products.
 
-- 📱 I build **cross-platform mobile apps and games with Flutter**.
-- 🌐 I build **full-stack web apps** with React, Node.js, Express and Laravel on MongoDB, PostgreSQL or MySQL, and custom **WordPress themes**.
-- 🎨 I design interfaces in **Figma** before I build them, and care about how an app feels in the hand.
-- 🤖 I like adding AI where it helps: classification with Hugging Face, chat with Dialogflow, LLMs through OpenRouter.
+- Cross-platform **mobile apps and games with Flutter**
+- **Full-stack web apps** with React, Node.js, Express and Laravel on MongoDB, PostgreSQL or MySQL, plus custom **WordPress themes**
+- **UI/UX design in Figma**, carried through to the finished product
+- **AI features** where they help: classification with Hugging Face, chat with Dialogflow, LLMs through OpenRouter
 
 ---
 
-## 🛠 Tech stack
+## Tech stack
 
 **Languages**<br>
 <img src="https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white" alt="Dart">
@@ -70,9 +68,9 @@ I have a Bachelor's in Software Engineering from **Sukkur IBA University** and *
 
 ---
 
-## 🎮 Flutter games
+## Flutter games
 
-Puzzle games, each with its own look, sound effects, haptics, an animated splash screen, and saved progress so you continue where you left off. More are on the way.
+Puzzle games, each with its own visual style, sound effects, haptics, an animated splash screen, and saved progress. More are on the way.
 
 <table>
   <tr>
@@ -96,54 +94,44 @@ Puzzle games, each with its own look, sound effects, haptics, an animated splash
   </tr>
 </table>
 
-**Built with:** Flutter, Dart, shared_preferences, audioplayers, custom painters and generated levels
+**Built with:** Flutter, Dart, shared_preferences, audioplayers, custom painters, procedurally generated levels
 
 ---
 
-## 📱 Mobile apps
+## Mobile apps
 
-### 🌐 [UNI-verse](https://github.com/HafsaQureshi1/FYP_UNI-verse_f21) · *Final Year Project*
-An AI-powered university bulletin board app that streamlines campus communication.
-Real-time post approvals, AI post categorisation with Hugging Face models, a Dialogflow chatbot assistant, and secure authentication.
-
-`Flutter` `Firebase` `Firestore` `Cloudinary` `Hugging Face` `Dialogflow` `OpenRouter API`
-
-### 💭 [Mood Journal](https://github.com/HafsaQureshi1/MoodJournal-track-your-emotions)
-Log daily emotions, see patterns over time, and build emotional awareness.
-
-`Flutter` `Firebase`
-
-### 💸 Expense Tracker
-Log expenses and explore them with category filters and interactive charts.
-
-`Flutter`
+| Project | Description | Built with |
+|---|---|---|
+| [**UNI-verse**](https://github.com/HafsaQureshi1/FYP_UNI-verse_f21)<br><sub>Final Year Project</sub> | AI-powered university bulletin board that streamlines campus communication: real-time post approvals, AI post categorisation with Hugging Face models, a Dialogflow chatbot assistant, and secure authentication | Flutter, Firebase, Firestore, Cloudinary, Hugging Face, Dialogflow, OpenRouter API |
+| [**Mood Journal**](https://github.com/HafsaQureshi1/MoodJournal-track-your-emotions) | Log daily emotions, see patterns over time, and build emotional awareness | Flutter, Firebase |
+| **Expense Tracker** | Log expenses and explore them with category filters and interactive charts | Flutter |
 
 ---
 
-## 🌐 Web projects
+## Web projects
 
 ### Full-stack web apps
 
-| Project | What it is | Built with | Links |
+| Project | Description | Built with | Links |
 |---|---|---|---|
-| 📚 **BookFlow** | A full-stack web app with a React frontend and a Laravel backend, containerised with Docker | React, Laravel (PHP), Docker | [Code](https://github.com/HafsaQureshi1/BookFlow) · [Live](https://book-flow-alpha.vercel.app) |
-| 💼 **Rekrutify** | Recruitment company website: a fast static rebuild with a PHP blog and its own admin panel, later ported to React with an Express and MySQL backend for forms and email | HTML, CSS, JavaScript, PHP, React, Express, MySQL | [Code](https://github.com/HafsaQureshi1/Rekrutify) · [Live](https://rekrutify.com/) |
-| 🍽️ **Railfoods** | Multi-role food ordering platform with admin, customer and order management. I led development and design | React, Node.js, PostgreSQL, Firebase, Figma | |
-| 🛍️ **Farhang** | Cultural marketplace for browsing cultural items, accessories and clothing | React, CSS | [Code](https://github.com/HafsaQureshi1/Ecommerce-Web-App) · [Live](https://web-project-hafsa-ali-sadia.vercel.app) |
+| **BookFlow** | Full-stack web app with a React frontend and a Laravel backend, containerised with Docker | React, Laravel, Docker | [Code](https://github.com/HafsaQureshi1/BookFlow) · [Live](https://book-flow-alpha.vercel.app) |
+| **Rekrutify** | Recruitment company website: a fast static rebuild with a PHP blog and admin panel, later ported to React with an Express and MySQL backend for forms and email | HTML, CSS, JavaScript, PHP, React, Express, MySQL | [Code](https://github.com/HafsaQureshi1/Rekrutify) · [Live](https://rekrutify.com/) |
+| **Railfoods** | Multi-role food ordering platform with admin, customer and order management; led development and design | React, Node.js, PostgreSQL, Firebase, Figma | |
+| **Farhang** | Cultural marketplace for browsing cultural items, accessories and clothing | React, CSS | [Code](https://github.com/HafsaQureshi1/Ecommerce-Web-App) · [Live](https://web-project-hafsa-ali-sadia.vercel.app) |
 
 ### Websites and themes
 
-| Project | What it is | Built with | Links |
+| Project | Description | Built with | Links |
 |---|---|---|---|
-| 🪵 **BB Timber** | Custom classic WordPress theme for a timber company, designed page by page | WordPress, PHP, SCSS, JavaScript | [Code](https://github.com/HafsaQureshi1/Bb-timber) · [Live](https://bbtimber.com/) |
-| 🏗️ **Faizan Builders and Developers** | Website for a construction and real estate developer | HTML, SCSS, JavaScript, PHP | [Code](https://github.com/HafsaQureshi1/FaizanBuilder) · [Live](https://faizan-builder.vercel.app) |
-| 🥐 **Ash Bakers** | Bakery website | HTML, CSS | [Code](https://github.com/HafsaQureshi1/Bakerywebsite) · [Live](https://bakerywebsite-eight.vercel.app) |
-| ✒️ **Calligraphy website** | Website for a calligraphy brand and its community | HTML, CSS | [Code](https://github.com/HafsaQureshi1/calligraphy_website) · [Live](https://calligraphy-website.vercel.app) |
+| **BB Timber** | Custom classic WordPress theme for a timber company | WordPress, PHP, SCSS, JavaScript | [Code](https://github.com/HafsaQureshi1/Bb-timber) · [Live](https://bbtimber.com/) |
+| **Faizan Builders and Developers** | Website for a construction and real estate developer | HTML, SCSS, JavaScript, PHP | [Code](https://github.com/HafsaQureshi1/FaizanBuilder) · [Live](https://faizan-builder.vercel.app) |
+| **Ash Bakers** | Bakery website | HTML, CSS | [Code](https://github.com/HafsaQureshi1/Bakerywebsite) · [Live](https://bakerywebsite-eight.vercel.app) |
+| **Calligraphy website** | Website for a calligraphy brand and its community | HTML, CSS | [Code](https://github.com/HafsaQureshi1/calligraphy_website) · [Live](https://calligraphy-website.vercel.app) |
 
 ---
 
-## 🤝 Let's connect
+## Contact
 
-I'm open to **internships, freelance projects and collaborations** in app development, UI/UX design and full-stack web development.
+Open to **internships, freelance projects and collaborations** in app development, UI/UX design and full-stack web development.
 
-📫 [hafsaqureshi486@gmail.com](mailto:hafsaqureshi486@gmail.com) · 🌐 [portfoliohafsa.vercel.app](https://portfoliohafsa.vercel.app) · 🔗 [LinkedIn](https://linkedin.com/in/hafsa-qureshi-51aa93286)
+[hafsaqureshi486@gmail.com](mailto:hafsaqureshi486@gmail.com) · [portfoliohafsa.vercel.app](https://portfoliohafsa.vercel.app) · [LinkedIn](https://linkedin.com/in/hafsa-qureshi-51aa93286)
